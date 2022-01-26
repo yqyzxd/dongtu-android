@@ -1,0 +1,16 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.yqyzxd'
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.0"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 30
+    }
+}
+
+dependencies {
+    api files('libs/DongtuStoreSDK.jar')
+}

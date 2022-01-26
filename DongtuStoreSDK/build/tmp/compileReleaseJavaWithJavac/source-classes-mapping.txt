@@ -1,0 +1,2 @@
+com/dongtu/store/BuildConfig.java
+ com.dongtu.store.BuildConfig

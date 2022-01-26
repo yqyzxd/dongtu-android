@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dongtu.store" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="15"
+6-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:5:5-67
+9-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:5:22-64
+10
+11    <application>
+11-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:6:5-33:19
+12        <activity
+12-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:7:9-9:52
+13            android:name="com.dongtu.store.activity.DTStorePackageListActivity"
+13-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:8:13-80
+14            android:screenOrientation="portrait" />
+14-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:9:13-49
+15        <activity
+15-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:10:9-12:52
+16            android:name="com.dongtu.store.activity.DTStoreAuthorHomepageActivity"
+16-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:11:13-83
+17            android:screenOrientation="portrait" />
+17-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:12:13-49
+18        <activity
+18-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:13:9-15:52
+19            android:name="com.dongtu.store.activity.DTStoreEmojiDetailActivity"
+19-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:14:13-80
+20            android:screenOrientation="portrait" />
+20-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:15:13-49
+21        <activity
+21-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:16:9-18:52
+22            android:name="com.dongtu.store.activity.DTStorePackageDetailActivity"
+22-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:17:13-82
+23            android:screenOrientation="portrait" />
+23-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:18:13-49
+24        <activity
+24-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:19:9-21:52
+25            android:name="com.dongtu.store.activity.DTStorePackageSettingActivity"
+25-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:20:13-83
+26            android:screenOrientation="portrait" />
+26-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:21:13-49
+27        <activity
+27-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:22:9-24:52
+28            android:name="com.dongtu.store.activity.DTStorePackageSortingActivity"
+28-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:23:13-83
+29            android:screenOrientation="portrait" />
+29-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:24:13-49
+30        <activity
+30-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:25:9-27:52
+31            android:name="com.dongtu.store.activity.DTStoreServiceDeclarationActivity"
+31-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:26:13-87
+32            android:screenOrientation="portrait" />
+32-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:27:13-49
+33        <activity
+33-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:28:9-30:63
+34            android:name="com.dongtu.sdk.activity.ImageDetail"
+34-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:29:13-63
+35            android:theme="@android:style/Theme.NoTitleBar" />
+35-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:30:13-60
+36        <activity
+36-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:31:9-32:63
+37            android:name="com.dongtu.sdk.activity.DTWebViewActivity"
+37-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:31:19-75
+38            android:theme="@android:style/Theme.NoTitleBar" />
+38-->/Users/wind/StudioProjects/NewMU/DongtuStoreSDK/src/main/AndroidManifest.xml:32:13-60
+39    </application>
+40
+41</manifest>
